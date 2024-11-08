@@ -29,3 +29,6 @@ attr = "wcc_workshop.__version__"
 [tool.setuptools.packages.find]
 where = [ "src",]
 namespaces = false
+
+[tool.kedro_telemetry]
+project_id = "129c180a88534ea9933d7cec5abdac37"
